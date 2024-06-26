@@ -39,4 +39,4 @@ python chatbott.py
 Follow the prompts to complete the survey and receive your summary.
 
 ## Contact
-For any inquiries or further information, please contact [Your Name] at [Your Email].
+For any inquiries or further information, please contact Mohan Ram at Ummanenimohan307@gmail.com.
